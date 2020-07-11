@@ -1,0 +1,27 @@
+<informations>
+<information></information>
+<sl.no>23</sl.no>
+<name>john_carter</name>
+<admission_date>
+    <day>25</day>
+    <month>12</month>
+    <year>2015</year>
+</admission_date>
+<information></information>
+<sl.no>29</sl.no>
+<name>Bob_Marshal</name>
+<admission_date>
+    <day>13</day>
+    <month>01</month>
+    <year>2019</year>
+</admission_date>
+<information></information>
+<sl.no>35</sl.no>
+<name>cark_kent</name>
+<admission_date>
+    <day>17</day>
+    <month>06</month>
+    <year>2005</year>
+</admission_date>
+</informations>
+
